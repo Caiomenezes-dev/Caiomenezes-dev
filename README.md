@@ -1,4 +1,7 @@
 <h1 align="center">Olá 👋, sou CAIO LUIS DE OLIVEIRA MENEZES</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
 <h3 align="center">Sou estudante de Ciências da Computação na Cesar School, no início estou disposto a aprender sobre várias coisas com um foco maior em backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiomenezes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="caiomenezes-dev" /> </p>
